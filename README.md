@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## This is Ghana Cocoa Board
+
 <!--
 **CocoaBoard/CocoaBoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
